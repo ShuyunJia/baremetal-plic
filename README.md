@@ -1,2 +1,2 @@
-# baremetal-plic
-baremetal software for riscv core with plic
+# riscv-baremetal-DefaultConfig
+A simple baremetal program template for RISC-V inspired from riscv-baremetal-DefaultConfig template
